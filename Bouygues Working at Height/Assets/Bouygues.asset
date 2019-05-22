@@ -35,7 +35,7 @@ MonoBehaviour:
     value: 1
   filtering:
     overrideState: 0
-    value: {x: 50, y: 95}
+    value: {x: 1.1080513, y: 77.17198}
   minLuminance:
     overrideState: 0
     value: 0
@@ -71,11 +71,11 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   intensity:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 5
   threshold:
-    overrideState: 0
-    value: 1
+    overrideState: 1
+    value: 0.2
   softKnee:
     overrideState: 0
     value: 0.5
@@ -92,8 +92,8 @@ MonoBehaviour:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
   fastMode:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 1
   dirtTexture:
     overrideState: 0
     value: {fileID: 0}
@@ -118,11 +118,11 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   focusDistance:
-    overrideState: 0
-    value: 10
+    overrideState: 1
+    value: 4.5
   aperture:
-    overrideState: 0
-    value: 5.6
+    overrideState: 1
+    value: 7.2
   focalLength:
     overrideState: 0
     value: 50
@@ -146,14 +146,14 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   mode:
-    overrideState: 0
-    value: 1
-  intensity:
-    overrideState: 0
+    overrideState: 1
     value: 0
+  intensity:
+    overrideState: 1
+    value: 0.1
   color:
-    overrideState: 0
-    value: {r: 0, g: 0, b: 0, a: 1}
+    overrideState: 1
+    value: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
   ambientOnly:
     overrideState: 0
     value: 1
@@ -173,8 +173,8 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   radius:
-    overrideState: 0
-    value: 0.25
+    overrideState: 1
+    value: 0.5
   quality:
-    overrideState: 0
-    value: 2
+    overrideState: 1
+    value: 3
