@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 6f67800d544212c479833b96012c99ee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: airduct
+    100002: airduct 1
+    100004: backwallDetail
+    100006: backwallDetail1
+    100008: blackPipe_01
+    100010: blackPipe_02
+    100012: blackPipe_03
+    100014: blackPipe_04
+    100016: blackPipe_05
+    100018: blackPipe_06
+    100020: blackPipe_09
+    100022: blackPipes_grp
+    100024: boox
+    100026: //RootNode
+    100028: boxes
+    100030: boxes 1
+    100032: cable_thing
+    100034: cableGuard
+    100036: cableGuard_loose
+    100038: cables
+    100040: deco_01
+    100042: deco_02
+    100044: deco_03
+    100046: deco_04
+    100048: deco_05
+    100050: deco_06
+    100052: deco_07
+    100054: Deco_grp
+    100056: Deco_grp 1
+    100058: Door
+    100060: Door 1
+    100062: Door1
+    100064: Door2
+    100066: Door_grp
+    100068: Door_grp 1
+    100070: doorCloser
+    100072: doorCloser 1
+    100074: doorDetail
+    100076: doorDetail 1
+    100078: Double_panel_set
+    100080: Double_panel_set 1
+    100082: Double_panel_set1
+    100084: Double_panel_set1 1
+    100086: extension_back_grp
+    100088: extension_side_grp
+    100090: Floor
+    100092: Floor 1
+    100094: Floor1
+    100096: Floor2
+    100098: FloorCylinder
+    100100: Grid
+    100102: Grid 1
+    100104: Grid1
+    100106: Grid2
+    100108: hang_small_wire
+    100110: lagging
+    100112: lagging1
+    100114: lower_Panel_row
+    100116: lower_Panel_row 1
+    100118: mid_panel_set
+    100120: mid_panel_set 1
+    100122: mid_panel_set1
+    100124: mid_panel_set1 1
+    100126: mid_panel_set2
+    100128: mid_panel_set2 1
+    100130: middle_wall_grp
+    100132: Panel04
+    100134: Panel04 1
+    100136: persp1
+    100138: pipe_grp
+    100140: pipeBrackets_1
+    100142: pipeBrackets_10
+    100144: pipeBrackets_2
+    100146: pipeBrackets_3
+    100148: pipeBrackets_4
+    100150: pipeBrackets_5
+    100152: pipeBrackets_6
+    100154: pipeBrackets_7
+    100156: pipeBrackets_8
+    100158: pipeBrackets_9
+    100160: PowerBoard_grp
+    100162: PowerBoard_grp 1
+    100164: redPipe
+    100166: redPipe 1
+    100168: redPipe_bolts
+    100170: redPipe_bolts 1
+    100172: roof
+    100174: roof 1
+    100176: roof1
+    100178: roof2
+    100180: roof_panelGrid
+    100182: roof_panelGrid 1
+    100184: roof_panelGrid1
+    100186: roof_panelGrid2
+    100188: roof_panels
+    100190: roof_panels 1
+    100192: roof_panels1
+    100194: roof_panels2
+    100196: roof_panels3
+    100198: roof_panels4
+    100200: roof_panels5
+    100202: roof_panels6
+    100204: roof_panels7
+    100206: roof_panels8
+    100208: scaffolding_Runway_Bottom
+    100210: smallPipe
+    100212: smallPipe1
+    100214: stairs
+    100216: Switch
+    100218: Switch 1
+    100220: topPipe_01
+    100222: topPipe_01 1
+    100224: topPipe_02
+    100226: topPipe_02 1
+    100228: upper_Panel_row
+    100230: upper_Panel_row 1
+    100232: wall_back1
+    100234: wall_back1 1
+    100236: wall_door
+    100238: wall_door 1
+    100240: wall_door1
+    100242: wall_door2
+    100244: wall_L
+    100246: wall_L 1
+    100248: wall_R_back
+    100250: wall_R_front
+    100252: walls_grp
+    100254: walls_grp 1
+    100256: wireGuard
+    100258: workingAtHeight_BG_grp
+    400000: airduct
+    400002: airduct 1
+    400004: backwallDetail
+    400006: backwallDetail1
+    400008: blackPipe_01
+    400010: blackPipe_02
+    400012: blackPipe_03
+    400014: blackPipe_04
+    400016: blackPipe_05
+    400018: blackPipe_06
+    400020: blackPipe_09
+    400022: blackPipes_grp
+    400024: boox
+    400026: //RootNode
+    400028: boxes
+    400030: boxes 1
+    400032: cable_thing
+    400034: cableGuard
+    400036: cableGuard_loose
+    400038: cables
+    400040: deco_01
+    400042: deco_02
+    400044: deco_03
+    400046: deco_04
+    400048: deco_05
+    400050: deco_06
+    400052: deco_07
+    400054: Deco_grp
+    400056: Deco_grp 1
+    400058: Door
+    400060: Door 1
+    400062: Door1
+    400064: Door2
+    400066: Door_grp
+    400068: Door_grp 1
+    400070: doorCloser
+    400072: doorCloser 1
+    400074: doorDetail
+    400076: doorDetail 1
+    400078: Double_panel_set
+    400080: Double_panel_set 1
+    400082: Double_panel_set1
+    400084: Double_panel_set1 1
+    400086: extension_back_grp
+    400088: extension_side_grp
+    400090: Floor
+    400092: Floor 1
+    400094: Floor1
+    400096: Floor2
+    400098: FloorCylinder
+    400100: Grid
+    400102: Grid 1
+    400104: Grid1
+    400106: Grid2
+    400108: hang_small_wire
+    400110: lagging
+    400112: lagging1
+    400114: lower_Panel_row
+    400116: lower_Panel_row 1
+    400118: mid_panel_set
+    400120: mid_panel_set 1
+    400122: mid_panel_set1
+    400124: mid_panel_set1 1
+    400126: mid_panel_set2
+    400128: mid_panel_set2 1
+    400130: middle_wall_grp
+    400132: Panel04
+    400134: Panel04 1
+    400136: persp1
+    400138: pipe_grp
+    400140: pipeBrackets_1
+    400142: pipeBrackets_10
+    400144: pipeBrackets_2
+    400146: pipeBrackets_3
+    400148: pipeBrackets_4
+    400150: pipeBrackets_5
+    400152: pipeBrackets_6
+    400154: pipeBrackets_7
+    400156: pipeBrackets_8
+    400158: pipeBrackets_9
+    400160: PowerBoard_grp
+    400162: PowerBoard_grp 1
+    400164: redPipe
+    400166: redPipe 1
+    400168: redPipe_bolts
+    400170: redPipe_bolts 1
+    400172: roof
+    400174: roof 1
+    400176: roof1
+    400178: roof2
+    400180: roof_panelGrid
+    400182: roof_panelGrid 1
+    400184: roof_panelGrid1
+    400186: roof_panelGrid2
+    400188: roof_panels
+    400190: roof_panels 1
+    400192: roof_panels1
+    400194: roof_panels2
+    400196: roof_panels3
+    400198: roof_panels4
+    400200: roof_panels5
+    400202: roof_panels6
+    400204: roof_panels7
+    400206: roof_panels8
+    400208: scaffolding_Runway_Bottom
+    400210: smallPipe
+    400212: smallPipe1
+    400214: stairs
+    400216: Switch
+    400218: Switch 1
+    400220: topPipe_01
+    400222: topPipe_01 1
+    400224: topPipe_02
+    400226: topPipe_02 1
+    400228: upper_Panel_row
+    400230: upper_Panel_row 1
+    400232: wall_back1
+    400234: wall_back1 1
+    400236: wall_door
+    400238: wall_door 1
+    400240: wall_door1
+    400242: wall_door2
+    400244: wall_L
+    400246: wall_L 1
+    400248: wall_R_back
+    400250: wall_R_front
+    400252: walls_grp
+    400254: walls_grp 1
+    400256: wireGuard
+    400258: workingAtHeight_BG_grp
+    2000000: persp1
+    2100000: scaffolding_mtl
+    2100002: powerBoard_A_mtl
+    2100004: door_mtl
+    2100006: panel_03_controls_mtl
+    2100008: panel_02_mtl
+    2100010: powerboard_backWhite_mtl
+    2100012: panel_02_controls_mtl
+    2100014: PowerBoard_panel01_mtl
+    2100016: panel_01_control_mtl
+    2100018: panel_03_mtl
+    2100020: roofPlane_mtl
+    2100022: roof_mtl
+    2100024: walls_mtl
+    2100026: doorFrame_mtl
+    2100028: metal_strip_mtl
+    2100030: black_pipe_mtl
+    2100032: floor_mtl
+    2100034: deco_mtl
+    2100036: orangePipe_mtl
+    2100038: lagging_mtl
+    2300000: airduct
+    2300002: airduct 1
+    2300004: backwallDetail
+    2300006: backwallDetail1
+    2300008: blackPipe_01
+    2300010: blackPipe_02
+    2300012: blackPipe_03
+    2300014: blackPipe_04
+    2300016: blackPipe_05
+    2300018: blackPipe_06
+    2300020: blackPipe_09
+    2300022: boox
+    2300024: boxes
+    2300026: boxes 1
+    2300028: cable_thing
+    2300030: cableGuard
+    2300032: cableGuard_loose
+    2300034: cables
+    2300036: deco_01
+    2300038: deco_02
+    2300040: deco_03
+    2300042: deco_04
+    2300044: deco_05
+    2300046: deco_06
+    2300048: deco_07
+    2300050: Door
+    2300052: Door 1
+    2300054: Door1
+    2300056: Door2
+    2300058: doorCloser
+    2300060: doorCloser 1
+    2300062: doorDetail
+    2300064: doorDetail 1
+    2300066: Double_panel_set
+    2300068: Double_panel_set 1
+    2300070: Double_panel_set1
+    2300072: Double_panel_set1 1
+    2300074: Floor
+    2300076: Floor 1
+    2300078: Floor1
+    2300080: Floor2
+    2300082: FloorCylinder
+    2300084: Grid
+    2300086: Grid 1
+    2300088: Grid1
+    2300090: Grid2
+    2300092: hang_small_wire
+    2300094: lagging
+    2300096: lagging1
+    2300098: lower_Panel_row
+    2300100: lower_Panel_row 1
+    2300102: mid_panel_set
+    2300104: mid_panel_set 1
+    2300106: mid_panel_set1
+    2300108: mid_panel_set1 1
+    2300110: mid_panel_set2
+    2300112: mid_panel_set2 1
+    2300114: Panel04
+    2300116: Panel04 1
+    2300118: pipeBrackets_1
+    2300120: pipeBrackets_10
+    2300122: pipeBrackets_2
+    2300124: pipeBrackets_3
+    2300126: pipeBrackets_4
+    2300128: pipeBrackets_5
+    2300130: pipeBrackets_6
+    2300132: pipeBrackets_7
+    2300134: pipeBrackets_8
+    2300136: pipeBrackets_9
+    2300138: redPipe
+    2300140: redPipe 1
+    2300142: redPipe_bolts
+    2300144: redPipe_bolts 1
+    2300146: roof
+    2300148: roof 1
+    2300150: roof1
+    2300152: roof2
+    2300154: roof_panelGrid
+    2300156: roof_panelGrid 1
+    2300158: roof_panelGrid1
+    2300160: roof_panelGrid2
+    2300162: roof_panels
+    2300164: roof_panels 1
+    2300166: roof_panels1
+    2300168: roof_panels2
+    2300170: roof_panels3
+    2300172: roof_panels4
+    2300174: roof_panels5
+    2300176: roof_panels6
+    2300178: roof_panels7
+    2300180: roof_panels8
+    2300182: scaffolding_Runway_Bottom
+    2300184: smallPipe
+    2300186: smallPipe1
+    2300188: stairs
+    2300190: Switch
+    2300192: Switch 1
+    2300194: topPipe_01
+    2300196: topPipe_01 1
+    2300198: topPipe_02
+    2300200: topPipe_02 1
+    2300202: upper_Panel_row
+    2300204: upper_Panel_row 1
+    2300206: wall_back1
+    2300208: wall_back1 1
+    2300210: wall_door
+    2300212: wall_door 1
+    2300214: wall_door1
+    2300216: wall_door2
+    2300218: wall_L
+    2300220: wall_L 1
+    2300222: wall_R_back
+    2300224: wall_R_front
+    2300226: wireGuard
+    3300000: airduct
+    3300002: airduct 1
+    3300004: backwallDetail
+    3300006: backwallDetail1
+    3300008: blackPipe_01
+    3300010: blackPipe_02
+    3300012: blackPipe_03
+    3300014: blackPipe_04
+    3300016: blackPipe_05
+    3300018: blackPipe_06
+    3300020: blackPipe_09
+    3300022: boox
+    3300024: boxes
+    3300026: boxes 1
+    3300028: cable_thing
+    3300030: cableGuard
+    3300032: cableGuard_loose
+    3300034: cables
+    3300036: deco_01
+    3300038: deco_02
+    3300040: deco_03
+    3300042: deco_04
+    3300044: deco_05
+    3300046: deco_06
+    3300048: deco_07
+    3300050: Door
+    3300052: Door 1
+    3300054: Door1
+    3300056: Door2
+    3300058: doorCloser
+    3300060: doorCloser 1
+    3300062: doorDetail
+    3300064: doorDetail 1
+    3300066: Double_panel_set
+    3300068: Double_panel_set 1
+    3300070: Double_panel_set1
+    3300072: Double_panel_set1 1
+    3300074: Floor
+    3300076: Floor 1
+    3300078: Floor1
+    3300080: Floor2
+    3300082: FloorCylinder
+    3300084: Grid
+    3300086: Grid 1
+    3300088: Grid1
+    3300090: Grid2
+    3300092: hang_small_wire
+    3300094: lagging
+    3300096: lagging1
+    3300098: lower_Panel_row
+    3300100: lower_Panel_row 1
+    3300102: mid_panel_set
+    3300104: mid_panel_set 1
+    3300106: mid_panel_set1
+    3300108: mid_panel_set1 1
+    3300110: mid_panel_set2
+    3300112: mid_panel_set2 1
+    3300114: Panel04
+    3300116: Panel04 1
+    3300118: pipeBrackets_1
+    3300120: pipeBrackets_10
+    3300122: pipeBrackets_2
+    3300124: pipeBrackets_3
+    3300126: pipeBrackets_4
+    3300128: pipeBrackets_5
+    3300130: pipeBrackets_6
+    3300132: pipeBrackets_7
+    3300134: pipeBrackets_8
+    3300136: pipeBrackets_9
+    3300138: redPipe
+    3300140: redPipe 1
+    3300142: redPipe_bolts
+    3300144: redPipe_bolts 1
+    3300146: roof
+    3300148: roof 1
+    3300150: roof1
+    3300152: roof2
+    3300154: roof_panelGrid
+    3300156: roof_panelGrid 1
+    3300158: roof_panelGrid1
+    3300160: roof_panelGrid2
+    3300162: roof_panels
+    3300164: roof_panels 1
+    3300166: roof_panels1
+    3300168: roof_panels2
+    3300170: roof_panels3
+    3300172: roof_panels4
+    3300174: roof_panels5
+    3300176: roof_panels6
+    3300178: roof_panels7
+    3300180: roof_panels8
+    3300182: scaffolding_Runway_Bottom
+    3300184: smallPipe
+    3300186: smallPipe1
+    3300188: stairs
+    3300190: Switch
+    3300192: Switch 1
+    3300194: topPipe_01
+    3300196: topPipe_01 1
+    3300198: topPipe_02
+    3300200: topPipe_02 1
+    3300202: upper_Panel_row
+    3300204: upper_Panel_row 1
+    3300206: wall_back1
+    3300208: wall_back1 1
+    3300210: wall_door
+    3300212: wall_door 1
+    3300214: wall_door1
+    3300216: wall_door2
+    3300218: wall_L
+    3300220: wall_L 1
+    3300222: wall_R_back
+    3300224: wall_R_front
+    3300226: wireGuard
+    4300000: scaffolding_Runway_Bottom
+    4300002: airduct
+    4300004: stairs
+    4300006: boxes
+    4300008: Switch
+    4300010: mid_panel_set
+    4300012: Double_panel_set
+    4300014: lower_Panel_row
+    4300016: Panel04
+    4300018: upper_Panel_row
+    4300020: mid_panel_set1
+    4300022: mid_panel_set2
+    4300024: Double_panel_set1
+    4300026: roof
+    4300028: roof_panels
+    4300030: roof_panelGrid
+    4300032: Grid
+    4300034: wall_L
+    4300036: wall_door
+    4300038: Floor
+    4300040: wall_back1
+    4300042: deco_06
+    4300044: deco_05
+    4300046: deco_04
+    4300048: deco_03
+    4300050: deco_02
+    4300052: deco_01
+    4300054: redPipe
+    4300056: redPipe_bolts
+    4300058: cableGuard_loose
+    4300060: FloorCylinder
+    4300062: hang_small_wire
+    4300064: topPipe_01
+    4300066: cable_thing
+    4300068: cables
+    4300070: cableGuard
+    4300072: topPipe_02
+    4300074: deco_07
+    4300076: boox
+    4300078: doorDetail
+    4300080: Door
+    4300082: doorCloser
+    4300084: airduct
+    4300086: roof
+    4300088: roof_panels
+    4300090: roof_panelGrid
+    4300092: Grid
+    4300094: wall_L
+    4300096: wall_door
+    4300098: Floor
+    4300100: wall_back1
+    4300102: redPipe
+    4300104: redPipe_bolts
+    4300106: topPipe_01
+    4300108: topPipe_02
+    4300110: doorDetail
+    4300112: Door
+    4300114: doorCloser
+    4300116: boxes
+    4300118: Switch
+    4300120: mid_panel_set
+    4300122: Double_panel_set
+    4300124: lower_Panel_row
+    4300126: Panel04
+    4300128: upper_Panel_row
+    4300130: mid_panel_set1
+    4300132: mid_panel_set2
+    4300134: Double_panel_set1
+    4300136: Floor1
+    4300138: Floor2
+    4300140: wall_door1
+    4300142: wall_door2
+    4300144: Door1
+    4300146: Door2
+    4300148: roof1
+    4300150: roof_panelGrid1
+    4300152: roof_panelGrid2
+    4300154: Grid1
+    4300156: Grid2
+    4300158: roof2
+    4300160: roof_panels1
+    4300162: roof_panels2
+    4300164: roof_panels3
+    4300166: roof_panels4
+    4300168: roof_panels5
+    4300170: roof_panels6
+    4300172: roof_panels7
+    4300174: roof_panels8
+    4300176: wireGuard
+    4300178: blackPipe_01
+    4300180: blackPipe_02
+    4300182: blackPipe_03
+    4300184: blackPipe_04
+    4300186: blackPipe_05
+    4300188: blackPipe_06
+    4300190: lagging1
+    4300192: lagging
+    4300194: blackPipe_09
+    4300196: wall_R_front
+    4300198: wall_R_back
+    4300200: smallPipe
+    4300202: backwallDetail
+    4300204: pipeBrackets_5
+    4300206: pipeBrackets_4
+    4300208: pipeBrackets_3
+    4300210: pipeBrackets_1
+    4300212: pipeBrackets_2
+    4300214: backwallDetail1
+    4300216: smallPipe1
+    4300218: pipeBrackets_6
+    4300220: pipeBrackets_7
+    4300222: pipeBrackets_8
+    4300224: pipeBrackets_9
+    4300226: pipeBrackets_10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PowerBoard_panel01_mtl
+    second: {fileID: 2100000, guid: b68ed2b9b2ac1dc4181180e81e01ab5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_pipe_mtl
+    second: {fileID: 2100000, guid: 3e9a35c48416eff4fa1066fa10a048ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: deco_mtl
+    second: {fileID: 2100000, guid: c0aebeef491c5c14fbf7169070753169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorFrame_mtl
+    second: {fileID: 2100000, guid: 1f4cf7d02e823e34fa4f67c4e4fb889b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_mtl
+    second: {fileID: 2100000, guid: 55baa082830023141bc46b82428315f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_mtl
+    second: {fileID: 2100000, guid: 4d6f573bd95bc344b8634ceb4a4d7941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lagging_mtl
+    second: {fileID: 2100000, guid: d64ce38919bff1241a5a1d88d6eccb49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strip_mtl
+    second: {fileID: 2100000, guid: 11a3eeaeb6a2b894080cbddf246e9ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangePipe_mtl
+    second: {fileID: 2100000, guid: 7db5121ed39b49146a60319be69c0352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_01_control_mtl
+    second: {fileID: 2100000, guid: c15b2882fec178243a097813d34e731e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_02_controls_mtl
+    second: {fileID: 2100000, guid: b0686885bff442f4982c658245df0a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_02_mtl
+    second: {fileID: 2100000, guid: 5526dfa883f323a409d4d51e4f1fe836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_03_controls_mtl
+    second: {fileID: 2100000, guid: 2e15683ec87d04c4f830000988445b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_03_mtl
+    second: {fileID: 2100000, guid: c80665ab4f127e14391d71c61d50b0c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: powerBoard_A_mtl
+    second: {fileID: 2100000, guid: 226a69d20a3670f45a0e13e422bc781e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: powerboard_backWhite_mtl
+    second: {fileID: 2100000, guid: 5447b19b7d1e71647bcc51d8e9bee755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roofPlane_mtl
+    second: {fileID: 2100000, guid: c0a563d3b6005684a848fcdc4d5a0606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_mtl
+    second: {fileID: 2100000, guid: cfccd8703f0c84540b91132255150ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scaffolding_mtl
+    second: {fileID: 2100000, guid: 9809d13573337eb479948dbcb71846d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls_mtl
+    second: {fileID: 2100000, guid: bd9e183e373f8f240ac6f3565d478b81, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
